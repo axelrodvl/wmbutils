@@ -1,7 +1,8 @@
 # wmbutils 
 
 IBM Integration Toolkit (former IBM WebSphere Message Broker Toolkit) library for message processing.
-Created using IBM Integration Toolkit 9.0.0.3.
+
+Created using _IBM Integration Toolkit 9.0.0.3_.
 
 In order of usage import 
 - "WMB.Utils" 
