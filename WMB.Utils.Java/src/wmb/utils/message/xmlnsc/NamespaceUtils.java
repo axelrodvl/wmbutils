@@ -9,7 +9,7 @@ public class NamespaceUtils extends MbJavaComputeNode {
 	@Override
 	public void evaluate(MbMessageAssembly arg0) throws MbException {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 }
